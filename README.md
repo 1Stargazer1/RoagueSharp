@@ -1,6 +1,6 @@
 Hi! Welcome to Roaguesharp
 
-1. This is a bsic project as such it's a little clunky, everything laid out has been made by my hand without the help of AI. If you'd like to change anything or contribute to this project please add a comment along the lines of // Work of Y/N with a description of what was changed and how it works better.
+1. This is a bsic project as such it's a little clunky, everything laid out has been made by my hand. If you'd like to change anything or contribute to this project please add a comment along the lines of // Work of Y/N with a description of what was changed and how it works better.
 
 2. To actually be able to run it requires .NET 9.0, and requires it to be launched using the terminal. There are plans to make an .exe for easy use along with vulkan graphics to run better on both Linux and Windows operating systems. 
 
